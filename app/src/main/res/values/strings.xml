@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuGps</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps">Sem GPS</string>
+    <string name="title_activity_lista_locais">ListaLocaisActivity</string>
+    <string name="search_message">Pesquise uma localização</string>
+</resources>
